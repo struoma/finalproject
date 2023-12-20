@@ -1,0 +1,17 @@
+.navset {
+  position: sticky;
+  top: 0;
+  bottom: 20;
+  width: 100%;
+}
+
+.titleheading {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.back {
+  text-decoration: none;
+  float: right;
+  font-weight: bold;
+}
